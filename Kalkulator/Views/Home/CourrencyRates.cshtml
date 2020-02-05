@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Kalkulator.Models.Rate>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Currency)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Bid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ask)
+        </th>
+    </tr>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Currency)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Bid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ask)
+        </td>
+    </tr>
+}
+</table>

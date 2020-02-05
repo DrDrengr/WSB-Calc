@@ -1,0 +1,75 @@
+﻿@model Kalkulator.Models.CurrencyChangeModel
+
+@{ 
+    List<Kalkulator.Models.Rate> rates = Model.Currency.Rates;
+}
+
+<div class="row jumbotron">
+    <h1 class="col-sm-6">Kalkulator Walutowy</h1>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        @using (Html.BeginForm("CurrencyChange", "Home", FormMethod.Post))
+        {
+            <div class="row">
+                <div class="form-group col-sm-3">
+                    @Html.LabelFor(m => m.Amount)
+                </div>
+                <div class="form-group col-sm-3">
+                    @Html.LabelFor(m => m.SellCode)
+                </div>
+                <div class="form-group col-sm-3">
+                    @Html.LabelFor(m => m.BuyCode)
+                </div>
+                <div class="form-group col-sm-3">
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-sm-3">
+                    @Html.TextBoxFor(m => m.Amount, new { @class = "form-control", placeholder = "Podaj ilość" })
+                </div>
+                <div class="form-group col-sm-3">
+                    @Html.DropDownListFor(m => m.SellCode, new SelectList(Model.Currency.Rates, "Code", "Currency"), new { @class = "form-control" })
+                </div>
+                <div class="form-group col-sm-3">
+                    @Html.DropDownListFor(m => m.BuyCode, new SelectList(Model.Currency.Rates, "Code", "Currency"), new { @class = "form-control" })
+                </div>
+                <div class="form-group col-sm-3">
+                    <input type="submit" value="Konwertuj" class="btn btn-info serachBtn form-control" id="sbt_search" name="VALUE" onclick="showLoading" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="form-group col-sm-3">
+                    @Html.ValidationMessageFor(m => m.Amount, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group col-sm-3">
+                    @Html.ValidationMessageFor(m => m.SellCode, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group col-sm-3">
+                    @Html.ValidationMessageFor(m => m.BuyCode, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group col-sm-3">
+                </div>
+            </div>
+        }
+    </div>
+    <div class="col-12">
+        @if (Model.ConversionResoult != 0)
+        {
+            <h6>
+                Kurs obliczonany jest poprzez przewalutowanie na walutę polską PLN, a następnie z niej obliczana waluta docelowa.
+                Dlatego kurs może się różnić od bezpośredniego przewalutowania.
+            </h6>
+            <div class="content-flex-center">
+                <h1>@Model.ConversionResoult @Model.BuyCode.Code</h1>
+            </div>
+        }
+    </div>
+    <div class="col-12">
+        @if (rates != null)
+        {
+            Html.RenderPartial("CourrencyRates", rates);
+        }
+    </div>
+</div>

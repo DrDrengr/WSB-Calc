@@ -1,0 +1,440 @@
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\Kalkulator.dll.config
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\Kalkulator.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\Kalkulator.pdb
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\csc.exe
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\csc.exe.config
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\csc.rsp
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\csi.exe
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\csi.exe.config
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\csi.rsp
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Console.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Net.Http.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\vbc.exe
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\vbc.exe.config
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\vbc.rsp
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\Antlr3.Runtime.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.Helpers.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.Mvc.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.Optimization.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.Razor.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.WebPages.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\WebGrease.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.Helpers.xml
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.Mvc.xml
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.Optimization.xml
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.Razor.xml
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.WebPages.xml
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\Antlr3.Runtime.pdb
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\obj\Debug\Kalkulator.dll
+C:\Users\Daniel\Desktop\Nowy folder\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\Kalkulator.dll.config
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\Kalkulator.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\Kalkulator.pdb
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\csc.exe
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\csc.exe.config
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\csc.rsp
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\csi.exe
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\csi.exe.config
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\csi.rsp
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.AppContext.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Console.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.IO.Compression.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Net.Http.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.ValueTuple.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\vbc.exe
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\vbc.exe.config
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\vbc.rsp
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\Antlr3.Runtime.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\Newtonsoft.Json.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.Helpers.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.Mvc.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.Optimization.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.Razor.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\WebGrease.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.Helpers.xml
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.Mvc.xml
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.Optimization.xml
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.Razor.xml
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.xml
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\Newtonsoft.Json.xml
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\Antlr3.Runtime.pdb
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Net.Http.Formatting.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\System.Net.Http.Formatting.xml
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\RestSharp.dll
+C:\Users\Daniel\Desktop\Kalkulator\Kalkulator\bin\RestSharp.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\obj\Debug\Kalkulator.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\Kalkulator.dll.config
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\Kalkulator.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\Kalkulator.pdb
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\RestSharp.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\RestSharp.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Admin\Desktop\Admin\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CopyComplete
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\Kalkulator.dll.config
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\Kalkulator.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\Kalkulator.pdb
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\RestSharp.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\RestSharp.xml
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CopyComplete
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.dll
+C:\Users\Admin\Desktop\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+E:\Kalkulator\Kalkulator\bin\Kalkulator.dll.config
+E:\Kalkulator\Kalkulator\bin\Kalkulator.dll
+E:\Kalkulator\Kalkulator\bin\Kalkulator.pdb
+E:\Kalkulator\Kalkulator\bin\roslyn\csc.exe
+E:\Kalkulator\Kalkulator\bin\roslyn\csc.exe.config
+E:\Kalkulator\Kalkulator\bin\roslyn\csc.rsp
+E:\Kalkulator\Kalkulator\bin\roslyn\csi.exe
+E:\Kalkulator\Kalkulator\bin\roslyn\csi.exe.config
+E:\Kalkulator\Kalkulator\bin\roslyn\csi.rsp
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Kalkulator\Kalkulator\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.AppContext.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Collections.Immutable.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Console.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Globalization.Calendars.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.IO.Compression.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.IO.FileSystem.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Net.Http.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Net.Sockets.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Reflection.Metadata.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.ValueTuple.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XPath.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Kalkulator\Kalkulator\bin\roslyn\vbc.exe
+E:\Kalkulator\Kalkulator\bin\roslyn\vbc.exe.config
+E:\Kalkulator\Kalkulator\bin\roslyn\vbc.rsp
+E:\Kalkulator\Kalkulator\bin\roslyn\VBCSCompiler.exe
+E:\Kalkulator\Kalkulator\bin\roslyn\VBCSCompiler.exe.config
+E:\Kalkulator\Kalkulator\bin\Antlr3.Runtime.dll
+E:\Kalkulator\Kalkulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kalkulator\Kalkulator\bin\Microsoft.Web.Infrastructure.dll
+E:\Kalkulator\Kalkulator\bin\Newtonsoft.Json.dll
+E:\Kalkulator\Kalkulator\bin\RestSharp.dll
+E:\Kalkulator\Kalkulator\bin\System.Net.Http.Formatting.dll
+E:\Kalkulator\Kalkulator\bin\System.Web.Helpers.dll
+E:\Kalkulator\Kalkulator\bin\System.Web.Mvc.dll
+E:\Kalkulator\Kalkulator\bin\System.Web.Optimization.dll
+E:\Kalkulator\Kalkulator\bin\System.Web.Razor.dll
+E:\Kalkulator\Kalkulator\bin\System.Web.WebPages.Deployment.dll
+E:\Kalkulator\Kalkulator\bin\System.Web.WebPages.dll
+E:\Kalkulator\Kalkulator\bin\System.Web.WebPages.Razor.dll
+E:\Kalkulator\Kalkulator\bin\WebGrease.dll
+E:\Kalkulator\Kalkulator\bin\Newtonsoft.Json.xml
+E:\Kalkulator\Kalkulator\bin\RestSharp.xml
+E:\Kalkulator\Kalkulator\bin\System.Net.Http.Formatting.xml
+E:\Kalkulator\Kalkulator\bin\System.Web.Helpers.xml
+E:\Kalkulator\Kalkulator\bin\System.Web.Mvc.xml
+E:\Kalkulator\Kalkulator\bin\System.Web.Optimization.xml
+E:\Kalkulator\Kalkulator\bin\System.Web.Razor.xml
+E:\Kalkulator\Kalkulator\bin\System.Web.WebPages.xml
+E:\Kalkulator\Kalkulator\bin\System.Web.WebPages.Deployment.xml
+E:\Kalkulator\Kalkulator\bin\System.Web.WebPages.Razor.xml
+E:\Kalkulator\Kalkulator\bin\Antlr3.Runtime.pdb
+E:\Kalkulator\Kalkulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Kalkulator\Kalkulator\bin\pl\System.Web.Helpers.resources.dll
+E:\Kalkulator\Kalkulator\bin\pl\System.Web.Mvc.resources.dll
+E:\Kalkulator\Kalkulator\bin\pl\System.Web.Optimization.resources.dll
+E:\Kalkulator\Kalkulator\bin\pl\System.Web.Razor.resources.dll
+E:\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.resources.dll
+E:\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.Deployment.resources.dll
+E:\Kalkulator\Kalkulator\bin\pl\System.Web.WebPages.Razor.resources.dll
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CopyComplete
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.dll
+E:\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb

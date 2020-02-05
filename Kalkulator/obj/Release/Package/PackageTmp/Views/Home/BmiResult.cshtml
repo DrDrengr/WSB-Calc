@@ -1,0 +1,175 @@
+﻿@model Kalkulator.Models.BmiModel
+<div class="row">
+    <div class="col-xs-12 display-div" style="background-color: @ViewBag.BmiBgColor; color:@ViewBag.BmiFontColor;">
+        <h1>
+            @ViewBag.BmiText BMI: @Html.DisplayFor(model => model.Bmi)
+        </h1>
+    </div>
+    <div class="col-xs-6">
+        <h3>
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Weight):
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Weight)
+                </dd>
+            </dl>
+        </h3>
+    </div>
+    <div class="col-xs-6">
+        <h3>
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Height):
+                </dt>
+                <dd>
+                    @Html.DisplayFor(model => model.Height)
+                </dd>
+            </dl>
+        </h3>
+    </div>
+</div>
+<hr />
+<div class="row">
+    <caption>
+        Klasyfikacja masy ciała osób dorosłych na podstawie BMI
+    </caption>
+    <table class="table table-bordered col-xs-12">
+        <tbody>
+            <tr>
+                <th>
+                </th>
+                <th>
+                    Kategoria
+                </th>
+                <th>
+                    BMI (kg/m²)
+                </th>
+                <th>
+                    Waga ciała
+                </th>
+                <th>
+                    <b>Ryzyko chorób towarzyszących otyłości</b>
+                </th>
+            </tr>
+            <tr>
+                <td style="background-color:#082E79">
+                </td>
+                <td>
+                    wygłodzenie
+                </td>
+                <td>
+                    &lt; 16,0
+                </td>
+                <td rowspan="3">
+                    niedowaga
+                </td>
+                <td rowspan="3">
+                    minimalne, ale zwiększony poziom
+                    <p>
+                        wystąpienia innych
+                    </p><p>
+                        problemów zdrowotnych
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#4169E1">
+                </td>
+                <td>
+                    wychudzenie
+                </td>
+                <td>
+                    16,0–16,99
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#ACE1AF">
+                </td>
+                <td>
+                    niedowaga
+                </td>
+                <td>
+                    17,0–18,49
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#CDEBA7">
+                </td>
+                <td>
+                    <b>pożądana masa ciała</b>
+                </td>
+                <td>
+                    <b>18,5–24,99</b>
+                </td>
+                <td>
+                    optimum
+                </td>
+                <td>
+                    minimalne
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#FFFF99">
+                </td>
+                <td>
+                    nadwaga
+                </td>
+                <td>
+                    25,0–29,99
+                </td>
+                <td>
+                    nadwaga
+                </td>
+                <td>
+                    średnie
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#FDE456">
+                </td>
+                <td>
+                    otyłość I stopnia
+                </td>
+                <td>
+                    30,0–34,99
+                </td>
+                <td rowspan="3">
+                    otyłość
+                </td>
+                <td>
+                    wysokie
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#CF2929">
+                </td>
+                <td>
+                    otyłość II stopnia (duża)
+                </td>
+                <td>
+                    35,0–39,99
+                </td>
+                <td>
+                    bardzo wysokie
+                </td>
+            </tr>
+            <tr>
+                <td style="background-color:#801818">
+                </td>
+                <td>
+                    otyłość III stopnia (chorobliwa)
+                </td>
+                <td>
+                    ≥ 40,0
+                </td>
+                <td>
+                    ekstremalny poziom ryzyka
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
